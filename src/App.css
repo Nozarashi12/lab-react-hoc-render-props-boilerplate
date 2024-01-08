@@ -1,3 +1,16 @@
 .buttons{
   display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+html,body{
+  text-align: center;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  line-height: 80px;
+  background-color: black;
+  color: white;
 }
